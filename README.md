@@ -42,15 +42,9 @@ See [Art Style page](./Art-Style.md)
 
 ### Game Mechanics
 
-**_Grid System_**
-
-We are mapping (x,y) positional coordinates to units. 
-
 **_Build System_**
 
-Once the player buys a building, they can place it on a map grid. There is no strategic reason for placement other than visual appeal [for MVP].
-
-Possibly player base attacks can cause buildings to require repair before resuming their purpose.
+See [build system](./Build-System.md)
 
 **_Battle System_**
 
