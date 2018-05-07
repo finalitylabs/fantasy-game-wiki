@@ -24,10 +24,6 @@ Undecided
 
 * Metaverse game
 
-**Tech Stack**
-
-See [Tech Stack](./Tech-Stack.md)
-
 ### Abstract
 
 PLACEHOLDER is an expansive world where gamers will build a decentralized economy, discover rare units/items, and battle for control of strongholds and resources….
@@ -51,3 +47,7 @@ See [Art Style page](./Art-Style.md)
 ### Decentraland Battlegrounds
 
 Visually this can look similar to World of Warcraft battleground maps.
+
+### Tech Stack
+
+See [Tech Stack](./Tech-Stack.md)
