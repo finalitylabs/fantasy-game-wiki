@@ -4,7 +4,7 @@ Undecided
 
 **Requirements**
 
-* Resource building of ERC20 fungible token - reference:https://ethergoo.io
+* Resource building of ERC20 fungible token - reference: https://ethergoo.io
 
 * A DCL integration on LAND parcels for contested battle area (We will design this in a similar way as Genesis City)
 
@@ -24,7 +24,7 @@ Undecided
 
 **Tech Stack**
 
-See [Tech Stack](Tech-Stack)
+See [Tech Stack](./Tech-Stack.md)
 
 **Abstract**
 
@@ -32,11 +32,11 @@ PLACEHOLDER is an expansive world where gamers will build a decentralized econom
 
 **Story and Player Agency:**
 
-See [Story page](Story) that covers story and who the player is
+See [Story page](./Story.md) that covers story and who the player is
 
 **Art Style**
 
-See [Art Style page](Art-Style)
+See [Art Style page](./Art-Style.md)
 
 **Game Mechanics**
 
@@ -56,7 +56,7 @@ See [battle systems](./Battle-Systems.md)
 
 **_Resource Mining_**
 
-See [resource mining](Resource-Mining)
+See [resource mining](./Resource-Mining.md)
 
 **Decentraland Battlegrounds**
 
@@ -64,4 +64,4 @@ Visually this can look similar to World of Warcraft battleground maps.
 
 **Blockchain and Economy systems**
 
-See [economy systems](Economy-Systems)
+See [economy systems](./Economy-Systems.md)
