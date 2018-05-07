@@ -48,6 +48,6 @@ See [Art Style page](./Art-Style.md)
 
 Visually this can look similar to World of Warcraft battleground maps.
 
-### Tech Stack
+## Tech Stack
 
-See [Tech Stack](./Tech-Stack.md)
+[Tech Stack page](./Tech-Stack.md)
