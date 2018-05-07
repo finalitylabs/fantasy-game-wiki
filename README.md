@@ -1,10 +1,10 @@
 # Game design wiki
 
-**Game Name** 
+### Game Name
 
 Undecided
 
-**Requirements**
+### Requirements
 
 * Resource building of ERC20 fungible token - reference: https://ethergoo.io
 
@@ -18,7 +18,7 @@ Undecided
 
 * Under Consideration: mined creatures/items ERC721 (Mining protocol for discovering new units/items) reference:[https://mooncatrescue.com](https://mooncatrescue.com)
 
-**Genre**
+### Genre
 
 * (Medieval Fantasy) Empire-building economy game
 
@@ -28,7 +28,7 @@ Undecided
 
 See [Tech Stack](./Tech-Stack.md)
 
-**Abstract**
+### Abstract
 
 PLACEHOLDER is an expansive world where gamers will build a decentralized economy, discover rare units/items, and battle for control of strongholds and resources…. 
 
@@ -36,11 +36,11 @@ PLACEHOLDER is an expansive world where gamers will build a decentralized econom
 
 See [Story page](./Story.md) that covers story and who the player is
 
-**Art Style**
+### Art Style
 
 See [Art Style page](./Art-Style.md)
 
-**Game Mechanics**
+### Game Mechanics
 
 **_Grid System_**
 
@@ -60,10 +60,10 @@ See [battle systems](./Battle-Systems.md)
 
 See [resource mining](./Resource-Mining.md)
 
-**Decentraland Battlegrounds**
+### Decentraland Battlegrounds
 
 Visually this can look similar to World of Warcraft battleground maps.
 
-**Blockchain and Economy systems**
+### Blockchain and Economy systems
 
 See [economy systems](./Economy-Systems.md)
