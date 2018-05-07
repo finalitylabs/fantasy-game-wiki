@@ -52,7 +52,7 @@ Possibly player base attacks can cause buildings to require repair before resumi
 
 **_Battle System_**
 
-See [battle systems](Battle-Systems)
+See [battle systems](./Battle-Systems.md)
 
 **_Resource Mining_**
 
