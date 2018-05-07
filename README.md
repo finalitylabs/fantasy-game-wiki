@@ -30,9 +30,10 @@ See [Tech Stack](./Tech-Stack.md)
 
 ### Abstract
 
-PLACEHOLDER is an expansive world where gamers will build a decentralized economy, discover rare units/items, and battle for control of strongholds and resources…. 
+PLACEHOLDER is an expansive world where gamers will build a decentralized economy, discover rare units/items, and battle for control of strongholds and resources….
 
-**Story and Player Agency:**
+
+### Story and Player Agency:
 
 See [Story page](./Story.md) that covers story and who the player is
 
@@ -40,24 +41,13 @@ See [Story page](./Story.md) that covers story and who the player is
 
 See [Art Style page](./Art-Style.md)
 
-### Game Mechanics
+## Game Mechanics
 
-**_Build System_**
-
-See [build system](./Build-System.md)
-
-**_Battle System_**
-
-See [battle systems](./Battle-Systems.md)
-
-**_Resource Mining_**
-
-See [resource mining](./Resource-Mining.md)
+* [Build system](./Build-System.md)
+* [Battle systems](./Battle-Systems.md)
+* [Resource mining](./Resource-Mining.md)
+* [Blockchain and Economy systems](./Economy-Systems.md)
 
 ### Decentraland Battlegrounds
 
 Visually this can look similar to World of Warcraft battleground maps.
-
-### Blockchain and Economy systems
-
-See [economy systems](./Economy-Systems.md)
